@@ -63,7 +63,7 @@ git config --global user.email "your-email@example.com"
 
 ```bash
 git clone <repo-link>
-cd python-data-ai-assignments
+cd BIT-SummerTraining
 git checkout -b day-01-your-name
 git add .
 git commit -m "Day 1 assignment by Your Name"

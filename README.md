@@ -54,7 +54,7 @@ Clone the repository:
 
 ```bash
 git clone <repo-link>
-cd python-data-ai-assignments
+cd BIT-SummerTraining
 ```
 
 Create your assignment branch:
@@ -87,13 +87,3 @@ Then open GitHub and create a Pull Request.
 - Machine learning
 - Artificial intelligence
 - Git and GitHub collaboration
-
-## For Instructor
-
-Daily workflow:
-
-1. Add or update `assignments/day-XX/questions.md`.
-2. Push the assignment to GitHub.
-3. Students create branches and submit Pull Requests.
-4. Review each PR and merge correct submissions.
-5. Ask students to update their PR if corrections are needed.

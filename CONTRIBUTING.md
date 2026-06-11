@@ -6,7 +6,7 @@ Follow these steps carefully for every assignment.
 
 ```bash
 git clone <repo-link>
-cd python-data-ai-assignments
+cd BIT-SummerTraining
 ```
 
 ## Step 2: Create Branch
