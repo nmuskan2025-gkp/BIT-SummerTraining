@@ -63,24 +63,17 @@ assignments/
     submissions/
       batch-a/
       batch-b/
-
-  day-06/
-
   day-12/
-
     questions.md
     submissions/
       batch-a/
       batch-b/
-  day-07/
-
   day-13/
     questions.md
     submissions/
       batch-a/
       batch-b/
   day-14/
-
     questions.md
     submissions/
       batch-a/
@@ -172,6 +165,8 @@ When asking for help, share the exact command and complete error message. Never 
 
 - Python programming
 - Data analytics
+- Data analytics with Python collections and CSV files
+- NumPy, Pandas, Matplotlib, and Seaborn
 - Data science
 - Machine-learning fundamentals and problem types
 - Linear regression and logistic regression
