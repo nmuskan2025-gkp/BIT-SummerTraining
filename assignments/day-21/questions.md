@@ -40,13 +40,7 @@ Which retrieval design gives the most reliable grounded answers for your chosen 
 Submit your work in one folder:
 
 ```text
-assignments/day-21/submissions/batch-a/your-name/solution/
-```
-
-or:
-
-```text
-assignments/day-21/submissions/batch-b/your-name/solution/
+assignments/day-21/submissions/your-name/solution/
 ```
 
 Include a `README.md` explaining how to run your code and reproduce your results.

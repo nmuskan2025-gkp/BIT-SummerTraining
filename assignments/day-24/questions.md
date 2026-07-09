@@ -44,13 +44,7 @@ For your chosen task, is prompting sufficient, or is model adaptation justified?
 Submit your work in one folder:
 
 ```text
-assignments/day-24/submissions/batch-a/your-name/solution/
-```
-
-or:
-
-```text
-assignments/day-24/submissions/batch-b/your-name/solution/
+assignments/day-24/submissions/your-name/solution/
 ```
 
 Include a `README.md` explaining how to run the experiments and where the dataset came from.

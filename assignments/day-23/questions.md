@@ -38,13 +38,7 @@ What are the most important responsible AI risks in your chosen system, and what
 Submit your work in one folder:
 
 ```text
-assignments/day-23/submissions/batch-a/your-name/solution/
-```
-
-or:
-
-```text
-assignments/day-23/submissions/batch-b/your-name/solution/
+assignments/day-23/submissions/your-name/solution/
 ```
 
 Include a `README.md` explaining your data source, setup steps, and how to reproduce your audit.

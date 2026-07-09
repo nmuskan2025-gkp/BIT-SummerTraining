@@ -35,13 +35,7 @@ Is your AI prototype ready for a limited pilot, and what evidence supports your 
 Submit your work in one folder:
 
 ```text
-assignments/day-26/submissions/batch-a/your-name/solution/
-```
-
-or:
-
-```text
-assignments/day-26/submissions/batch-b/your-name/solution/
+assignments/day-26/submissions/your-name/solution/
 ```
 
 Include a `README.md` explaining setup, usage, known limitations, and how to reproduce your evaluation.

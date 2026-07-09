@@ -38,13 +38,7 @@ How does self-attention help a transformer use context, and where can attention-
 Submit your work in one folder:
 
 ```text
-assignments/day-22/submissions/batch-a/your-name/solution/
-```
-
-or:
-
-```text
-assignments/day-22/submissions/batch-b/your-name/solution/
+assignments/day-22/submissions/your-name/solution/
 ```
 
 Include a `README.md` explaining how to run your code and reproduce your plots or tables.
